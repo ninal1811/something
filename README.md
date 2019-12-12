@@ -1,3 +1,1 @@
-# READ THIS
-```
-Read this thanks```
+What is a MANUAL MERGE?
